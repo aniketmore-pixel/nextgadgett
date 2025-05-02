@@ -75,7 +75,7 @@ $ code .
 - Daisy UI
 
 ## Developed By
-Aniket More
-Vamshi Marri
-Pradyumna Mannur
+Aniket More |
+Vamshi Marri |
+Pradyumna Mannur |
 Vignesh Pai
