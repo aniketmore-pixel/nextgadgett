@@ -35,7 +35,7 @@ admin dashboard, and secure payments.
 
 -   **Frontend:** React, Redux Toolkit, React Router, TailwindCSS,
     DaisyUI
--   **Backend:** Express.js, Stripe API, Firebase
+-   **Backend:** Express.js, Firebase
 -   **Database & Storage:** Firebase Firestore & Firebase Storage
 -   **Authentication:** Firebase Auth
 -   **State Management:** Redux Toolkit
@@ -153,16 +153,16 @@ flutter run
 
 ------------------------------------------------------------------------
 
-## 🤝 Contributing
+## 🤝 Future Scope
+- 🤖 AI-Powered Recommendations – Personalized product suggestions based on user behavior.
 
-Contributions, issues, and feature requests are welcome!\
-Feel free to fork this repo and submit pull requests.
+- 📦 Inventory & Supplier Management – Automated stock tracking and supplier integrations.
 
-------------------------------------------------------------------------
+- 🌍 Multi-Currency & Multi-Language Support – Expand globally with localization features.
 
-## 📜 License
+- 📱 Enhanced Flutter App – Add push notifications, offline mode, and biometric authentication.
 
-This project is licensed under the **MIT License**.
+- 📊 Admin Analytics Dashboard – Advanced insights into sales, orders, and customer trends.
 
 ------------------------------------------------------------------------
 
