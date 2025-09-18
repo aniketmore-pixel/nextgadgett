@@ -1,4 +1,4 @@
-# NextGadget 🛒
+# NextGadget
 
 A full-stack **E-Commerce platform** built with **React, Firebase, Redux
 Toolkit, Express, Stripe, and TailwindCSS/DaisyUI**.\
