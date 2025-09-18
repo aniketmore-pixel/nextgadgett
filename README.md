@@ -1,7 +1,7 @@
 # NextGadget
 
 A full-stack **electronic gadgets E-Commerce platform** built with **React, Firebase, Redux
-Toolkit, Express, Stripe, and TailwindCSS/DaisyUI**.\
+Toolkit, Express and TailwindCSS/DaisyUI**.\
 It includes both a **web app** and a **Flutter mobile app**, supporting
 features like authentication, cart, product management, order tracking,
 admin dashboard, and secure payments.
