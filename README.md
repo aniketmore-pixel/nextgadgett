@@ -155,13 +155,9 @@ flutter run
 
 ## 🤝 Future Scope
 - 🤖 AI-Powered Recommendations – Personalized product suggestions based on user behavior.
-
 - 📦 Inventory & Supplier Management – Automated stock tracking and supplier integrations.
-
 - 🌍 Multi-Currency & Multi-Language Support – Expand globally with localization features.
-
 - 📱 Enhanced Flutter App – Add push notifications, offline mode, and biometric authentication.
-
 - 📊 Admin Analytics Dashboard – Advanced insights into sales, orders, and customer trends.
 
 ------------------------------------------------------------------------
